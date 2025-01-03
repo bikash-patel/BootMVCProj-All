@@ -1,5 +1,0 @@
-spring:
-  application:
-    name: BootIOCProj15-Runners
-  profiles:
-    active: prod
