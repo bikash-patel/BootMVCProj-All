@@ -1,0 +1,1 @@
+<h1 style="color: green ; text-align: center">Please use Chrome to run this web-app smoothly</h1>
